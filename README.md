@@ -1,4 +1,8 @@
-# Return To The Roots
+# Return To The Roots (RPi3 Edition)
+  
+### "I changed the cmake to be able to build this on a raspberry pi 3. You will need an actual Rust-compiler and some libraries from the testing repository of raspbian.
+  
+  
 
 "Return To The Roots" is a fan-project, which aims to renew the original The Settlers 2.
 
